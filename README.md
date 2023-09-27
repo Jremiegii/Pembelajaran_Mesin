@@ -8,6 +8,7 @@ Berikut merupakan topik yang dibahas:
 1. Pratikum1 : Pengenalan Pandas
 2. Pratikum2 : Pengenalan Dataset
 3. Pratikum3 : Prepocessing Data
+4. Pratikum3 : Kmeans
 
 # Cara mengunakan
 
