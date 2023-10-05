@@ -9,7 +9,8 @@ Berikut merupakan topik yang dibahas:
 2. Pratikum2 : Pengenalan Dataset
 3. Pratikum3 : Prepocessing Data
 4. Pratikum4 : Kmeans
-4. Pratikum5 : Hierarchical Clustering
+5. Pratikum5 : Hierarchical Clustering
+6. Pratikum6 : Principle Component Analysis (PCA)
 
 # Cara mengunakan
 
@@ -17,7 +18,7 @@ Untuk menggunakan repository ini, Anda dapat mengikuti langkah-langkah berikut:
 1. Clone repository ini ke komputer Anda.
 2. Buka folder repository yang telah Anda clone.
 3. Buka file README.md untuk mempelajari lebih lanjut tentang repository ini.
-4. Buka file .py untuk melihat kode dan hasil dari tugas-tugas pratikum.
+4. Buka file .py atau .ipynb untuk melihat kode dan hasil dari tugas-tugas pratikum.
 
 # Terima Kasih
 
