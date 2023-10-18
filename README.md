@@ -11,6 +11,7 @@ Berikut merupakan topik yang dibahas:
 4. Pratikum4 : Kmeans
 5. Pratikum5 : Hierarchical Clustering
 6. Pratikum6 : Principle Component Analysis (PCA)
+6. Pratikum7 : Elbow Method & Silhouette Score
 
 # Cara mengunakan
 
