@@ -11,7 +11,10 @@ Berikut merupakan topik yang dibahas:
 4. Pratikum4 : Kmeans
 5. Pratikum5 : Hierarchical Clustering
 6. Pratikum6 : Principle Component Analysis (PCA)
-6. Pratikum7 : Elbow Method & Silhouette Score
+7. Pratikum7 : Elbow Method & Silhouette Score
+8. UTS       : Implementasi Pembelajaran Pada Pratikum 4 Sampai Pratikum 7
+9. Pratikum8 : K-nearest Neighbors (KNN)
+10. Pratikum9 : Random Forest
 
 # Cara mengunakan
 
