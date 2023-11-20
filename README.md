@@ -5,16 +5,18 @@ Repository ini merupakan wadah yang digunakan untuk menyimpan tugas-tugas kuliah
 # Topik
 
 Berikut merupakan topik yang dibahas:
-1. Pratikum1 : Pengenalan Pandas
-2. Pratikum2 : Pengenalan Dataset
-3. Pratikum3 : Prepocessing Data
-4. Pratikum4 : Kmeans
-5. Pratikum5 : Hierarchical Clustering
-6. Pratikum6 : Principle Component Analysis (PCA)
-7. Pratikum7 : Elbow Method & Silhouette Score
-8. UTS       : Implementasi Pembelajaran Pada Pratikum 4 Sampai Pratikum 7
-9. Pratikum8 : K-nearest Neighbors (KNN)
-10. Pratikum9 : Random Forest
+1. Pratikum1    : Pengenalan Pandas
+2. Pratikum2    : Pengenalan Dataset
+3. Pratikum3    : Prepocessing Data
+4. Pratikum4    : Kmeans
+5. Pratikum5    : Hierarchical Clustering
+6. Pratikum6    : Principle Component Analysis (PCA)
+7. Pratikum7    : Elbow Method & Silhouette Score
+8. Pratikum8    : K-nearest Neighbors (KNN)
+9. Pratikum9   : Random Forest
+10. Pratikum10  : Data Performance
+11. UTS          : Implementasi Pembelajaran Pada Pratikum 4 Sampai Pratikum 7
+12. UTS2        : Implementasi Pembelajaran Pada Pratikum 8 Sampai Pratikum 10
 
 # Cara mengunakan
 
